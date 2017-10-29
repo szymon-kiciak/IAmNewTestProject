@@ -11,6 +11,8 @@ namespace IAmNewTestProject
         static void Main(string[] args)
         {
             Console.WriteLine("And this is new stuff");
+            Console.WriteLine("We added extra line in the new branch");
+            Console.ReadKey();
         }
     }
 }
