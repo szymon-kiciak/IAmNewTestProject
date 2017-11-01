@@ -16,6 +16,7 @@ namespace IAmNewTestProject
 
             Console.Write("We make new changes into newbranchtest");
             Console.Write("20171101");
+            Console.WriteLine("We added extra line to second 20171101");
         }
     }
 }
