@@ -13,6 +13,8 @@ namespace IAmNewTestProject
             Console.WriteLine("And this is new stuff");
             Console.WriteLine("We added extra line in the new branch");
             Console.ReadKey();
+            Console.WriteLine("We added extra line to second 20171101");
+
         }
     }
 }
